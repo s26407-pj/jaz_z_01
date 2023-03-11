@@ -10,4 +10,6 @@ public class LukmacApplication {
 		SpringApplication.run(LukmacApplication.class, args);
 	}
 
+
+
 }
